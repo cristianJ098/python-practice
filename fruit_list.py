@@ -129,7 +129,7 @@ def clear():
 			FRUITS.clear()
 			print('the process is complete')
 		else:
-			print('aborting process...')
+			print('aborting the process...')
 	else:
 		print('There are no Fruits added')
 
